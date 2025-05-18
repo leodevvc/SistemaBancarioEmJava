@@ -3,15 +3,10 @@ package techwavesolucoesdigitais;
 
 import java.util.Scanner;
 
-/**
- *
- * @author leona
- */
+
 public class TechWaveSolucoesDigitais {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         // TODO code application logic here
         
@@ -52,7 +47,7 @@ public class TechWaveSolucoesDigitais {
              case 4:
                  System.out.println("OBRIGADO POR USAR O BANCO TECHWAVE. ATÉ A PROXIMA!");
                  break;
+         }     
                  
-                 
-         }
+         
          
